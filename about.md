@@ -6,4 +6,4 @@ permalink: /about/
 
 Маненкова Анна
 
-[https://t.me/de81k](tg)
+[tg](https://t.me/de81k)
